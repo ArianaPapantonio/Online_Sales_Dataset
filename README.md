@@ -22,7 +22,26 @@ The goal of this project is to analyze the online sales dataset and uncover acti
 
 ## 🛠️ Project Structure
 
-├── Data/ │ └── Online_Sales_Final.csv # Final dataset used for analysis and dashboard │ ├── Images/ │ ├── Product_overview.png # Screenshot of product performance dashboard │ └── Sales_overview.png # Screenshot of sales performance dashboard │ ├── src/ │ ├── EDA.ipynb # Notebook for data exploration and cleaning │ ├── Migration_SQL.ipynb # SQL migration examples / transformation logic │ └── functions.py # Helper functions (if any used in notebooks) │ ├── Online_Sales.pbix # Power BI dashboard file ├── SQL_queries.sql # SQL scripts used in data preparation ├── README.md # Project documentation
+```
+Online_Sales_Dataset/
+├── 📁 Data/                     ← Raw and cleaned datasets
+│   └── online_sales_dataset.csv
+│
+├── 📁 Images/                   ← Dashboard screenshots
+│   ├── product_overview.png
+│   └── sales_overview.png
+│
+├── 📁 src/                      ← Python scripts and notebooks
+│   ├── __pycache__/
+│   ├── functions.py            ← Helper functions (optional)
+│   ├── EDA.ipynb               ← Data cleaning & exploration
+│   └── Migration_SQL.ipynb     ← SQL logic and transformations
+│
+├── Online_Sales_Final.csv      ← Final dataset used in Power BI
+├── Online_Sales.pbix           ← Power BI dashboard file
+├── SQL_queries.sql             ← SQL scripts for analysis
+└── README.md                   ← Project documentation
+```
 
 ## 📊 Dashboard Analysis Overview
 
