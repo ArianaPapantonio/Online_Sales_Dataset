@@ -28,8 +28,8 @@ Online_Sales_Dataset/
 │   └── online_sales_dataset.csv
 │
 ├── 📁 Images/                   ← Dashboard screenshots
-│   ├── product_overview.png
-│   └── sales_overview.png
+│   ├── product_overview_v2.png
+│   └── sales_overview_v2.png
 │
 ├── 📁 src/                      ← Python scripts and notebooks
 │   ├── __pycache__/
@@ -60,11 +60,15 @@ This analysis includes various interactive visualizations that provide key busin
 
 These dashboards provide a comprehensive view of sales performance, product trends, customer behavior, and revenue distribution. All visuals are dynamic and update based on filter selections for deeper analysis.
 
-### Example Power BI Dashboard:
+### Example Power BI Dashboards:
 
 Here is an example of the dashboards created using Power BI:
 
-![Sales Overview Dashboard](Images/Sales_Overview.png)
-![Product Overview Dashboard](Images/Product_Overview.png)
+![Sales Overview Dashboard](Images/sales_overview_v2.png)
+![Product Overview Dashboard](Images/product_overview_v2.png)
 
+## 📬 Contact
 
+Made by **Ariana Papantonio**  
+🔗 [LinkedIn](https://www.linkedin.com/in/arianapapantonio/)  
+📧 arianapapantonio@gmail.com
